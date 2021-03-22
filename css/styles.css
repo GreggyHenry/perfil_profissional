@@ -3966,7 +3966,7 @@ input[type=button].btn-block {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
-  background-image: url('https://besthqwallpapers.com/Uploads/24-5-2019/93313/thumb2-purple-smoke-background-dark-purple-waves-background-purple-abstract-waves-3d-waves-background.jpg');
+  background-image: url('../assets/img/background.jpg')
 }
 .navbar .container,
 .navbar .container-fluid,
