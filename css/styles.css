@@ -10098,6 +10098,10 @@ p.lead {
   font-size: 3rem;
 }
 
+.fa-li_check {
+  color: #4a0f74;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
